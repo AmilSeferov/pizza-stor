@@ -1,0 +1,10 @@
+.containerCard {
+  display: flex;
+  img {
+    width: 240px;
+  }
+  .text {
+    width: 240px;
+    margin-left: 20px;
+  }
+}
